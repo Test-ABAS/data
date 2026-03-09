@@ -204,7 +204,7 @@
           }
         ]
       },
-      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "3-9-1/data.csv",
@@ -324,7 +324,7 @@
           }
         ]
       },
-      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change"
     },
     {
       "path": "3-2-2/data.csv",
@@ -540,7 +540,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
     },
     {
       "path": "8-6-1/data.csv",
@@ -564,7 +564,7 @@
           }
         ]
       },
-      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
+      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
       "path": "5-1-1/data.csv",
@@ -588,7 +588,7 @@
           }
         ]
       },
-      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex"
     },
     {
       "path": "5-5-1/data.csv",
@@ -780,7 +780,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+      "title": "Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
       "path": "2-b-1/data.csv",
@@ -828,7 +828,7 @@
           }
         ]
       },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "3-3-2/data.csv",
@@ -1044,7 +1044,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "3-7-2/data.csv",
@@ -1068,7 +1068,7 @@
           }
         ]
       },
-      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
+      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
       "path": "10-a-1/data.csv",
@@ -1140,7 +1140,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "17-8-1/data.csv",
@@ -1308,7 +1308,7 @@
           }
         ]
       },
-      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
+      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
     },
     {
       "path": "11-3-2/data.csv",
@@ -1404,7 +1404,7 @@
           }
         ]
       },
-      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
+      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
     },
     {
       "path": "11-7-2/data.csv",
@@ -1428,7 +1428,7 @@
           }
         ]
       },
-      "title": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+      "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
     },
     {
       "path": "3-4-2/data.csv",
@@ -1548,7 +1548,7 @@
           }
         ]
       },
-      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
+      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
       "path": "15-4-1/data.csv",
@@ -1644,7 +1644,7 @@
           }
         ]
       },
-      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
     },
     {
       "path": "13-2-2/data.csv",
@@ -1764,7 +1764,7 @@
           }
         ]
       },
-      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "1-a-1/data.csv",
@@ -1788,7 +1788,7 @@
           }
         ]
       },
-      "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income"
+      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1860,7 +1860,7 @@
           }
         ]
       },
-      "title": "Debt service as a proportion of exports of goods, services and primary income"
+      "title": "Debt service as a proportion of exports of goods and services"
     },
     {
       "path": "3-5-1/data.csv",
@@ -2100,7 +2100,7 @@
           }
         ]
       },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "17-1-2/data.csv",
@@ -2172,7 +2172,7 @@
           }
         ]
       },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "6-a-1/data.csv",
@@ -2628,7 +2628,7 @@
           }
         ]
       },
-      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "5-2-1/data.csv",
@@ -2652,7 +2652,7 @@
           }
         ]
       },
-      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "1-5-4/data.csv",
@@ -2940,7 +2940,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "4-3-1/data.csv",
@@ -2964,7 +2964,7 @@
           }
         ]
       },
-      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "12-4-1/data.csv",
@@ -3036,7 +3036,7 @@
           }
         ]
       },
-      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "6-5-1/data.csv",
@@ -3108,7 +3108,7 @@
           }
         ]
       },
-      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
     },
     {
       "path": "10-7-3/data.csv",
@@ -3132,7 +3132,7 @@
           }
         ]
       },
-      "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
+      "title": "Number of people who died or disappeared in the process of migration towards an international destination"
     },
     {
       "path": "6-4-1/data.csv",
@@ -3372,7 +3372,7 @@
           }
         ]
       },
-      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
+      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "1-2-1/data.csv",
@@ -3684,7 +3684,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "3-8-2/data.csv",
@@ -3780,7 +3780,7 @@
           }
         ]
       },
-      "title": "Under‑5 mortality rate"
+      "title": "Under‐5 mortality rate"
     },
     {
       "path": "1-5-3/data.csv",
@@ -3900,7 +3900,7 @@
           }
         ]
       },
-      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "6-3-2/data.csv",
@@ -3948,7 +3948,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
     },
     {
       "path": "4-2-1/data.csv",
@@ -4044,7 +4044,7 @@
           }
         ]
       },
-      "title": "Redistributive impact of fiscal policy on the Gini index"
+      "title": "Redistributive impact of fiscal policy"
     },
     {
       "path": "3-5-2/data.csv",
@@ -4140,7 +4140,7 @@
           }
         ]
       },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "17-3-2/data.csv",
@@ -4212,7 +4212,7 @@
           }
         ]
       },
-      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
       "path": "2-c-1/data.csv",
@@ -4308,7 +4308,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "8-10-2/data.csv",
@@ -4332,7 +4332,7 @@
           }
         ]
       },
-      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "15-1-1/data.csv",
@@ -4380,7 +4380,7 @@
           }
         ]
       },
-      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change"
     },
     {
       "path": "4-a-1/data.csv",
@@ -4428,7 +4428,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+      "title": "Proportion of teachers with the minimum required qualifications, by education level"
     },
     {
       "path": "5-3-2/data.csv",
@@ -4452,7 +4452,7 @@
           }
         ]
       },
-      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
+      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
       "path": "15-4-2/data.csv",
@@ -4476,7 +4476,7 @@
           }
         ]
       },
-      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+      "title": "Mountain Green Cover Index and proportion of degraded mountain land"
     },
     {
       "path": "5-6-2/data.csv",
@@ -4500,7 +4500,7 @@
           }
         ]
       },
-      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
       "path": "16-6-2/data.csv",
@@ -4548,7 +4548,7 @@
           }
         ]
       },
-      "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
+      "title": "Proportion of small-scale industries in total industry value added"
     },
     {
       "path": "11-6-1/data.csv",
@@ -4596,7 +4596,7 @@
           }
         ]
       },
-      "title": "Proportion of population that feel safe walking alone around the area they live"
+      "title": "Proportion of population that feel safe walking alone around the area they live after dark"
     },
     {
       "path": "17-15-1/data.csv",
@@ -4644,7 +4644,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "1-2-2/data.csv",
@@ -4716,7 +4716,7 @@
           }
         ]
       },
-      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
     },
     {
       "path": "8-9-1/data.csv",
@@ -4788,7 +4788,7 @@
           }
         ]
       },
-      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
       "path": "7-a-1/data.csv",
@@ -4884,7 +4884,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "6-5-2/data.csv",
@@ -5052,7 +5052,7 @@
           }
         ]
       },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "3-b-1/data.csv",
@@ -5148,7 +5148,7 @@
           }
         ]
       },
-      "title": "Dollar value of official development assistance committed to developing countries"
+      "title": "Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries"
     },
     {
       "path": "4-b-1/data.csv",
@@ -5172,7 +5172,7 @@
           }
         ]
       },
-      "title": "Volume of official development assistance flows for scholarships"
+      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
     },
     {
       "path": "15-1-2/data.csv",
@@ -5244,7 +5244,7 @@
           }
         ]
       },
-      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
       "path": "3-3-1/data.csv",
@@ -5556,7 +5556,7 @@
           }
         ]
       },
-      "title": "Health product access index"
+      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
     },
     {
       "path": "1-5-1/data.csv",
@@ -5724,7 +5724,7 @@
           }
         ]
       },
-      "title": "Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
       "path": "9-3-2/data.csv",
@@ -5940,79 +5940,7 @@
           }
         ]
       },
-      "title": "Youth/adult literacy rate"
-    },
-    {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Employed persons in the tourism industries"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
     }
   ]
 }
