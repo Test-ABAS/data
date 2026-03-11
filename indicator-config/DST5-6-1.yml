@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: indicators.FIN7-1-1-title
+graph_title: indicators.DST5-6-1-title
 graph_titles: []
 graph_type: line
-indicator_name: indicators.FIN7-1-1-title
-indicator_number: 'FIN7.1.1'
+indicator_name: indicators.DST5-6-1-title
+indicator_number: 'DST5.6.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
