@@ -3820,6 +3820,28 @@
       "title": "indicators.RES4-3-1-title"
     },
     {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-1-2-title"
+    },
+    {
       "path": "ENV3-9-3/data.csv",
       "name": "ENV3-9-3",
       "profile": "tabular-data-resource",

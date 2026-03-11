@@ -4167,6 +4167,30 @@
       "title": "indicators.RES4-3-1-title"
     },
     {
+      "path": "16-1-2/data.csv",
+      "name": "16-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
+    },
+    {
       "path": "ENV3-9-3/data.csv",
       "name": "ENV3-9-3",
       "profile": "tabular-data-resource",
