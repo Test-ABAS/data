@@ -3512,28 +3512,6 @@
       "title": "indicators.ENV3-8-1-title"
     },
     {
-      "path": "4-a-1/data.csv",
-      "name": "4-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-a-1-title"
-    },
-    {
       "path": "4-c-1/data.csv",
       "name": "4-c-1",
       "profile": "tabular-data-resource",
