@@ -1287,30 +1287,6 @@
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
     },
     {
-      "path": "11-3-2/data.csv",
-      "name": "11-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
-    },
-    {
       "path": "13-3-1/data.csv",
       "name": "13-3-1",
       "profile": "tabular-data-resource",
@@ -4237,30 +4213,6 @@
         ]
       },
       "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
-    },
-    {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ratio of land consumption rate to population growth rate"
     },
     {
       "path": "16-9-1/data.csv",
