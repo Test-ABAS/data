@@ -21,7 +21,7 @@ graph_title: indicators.DEV6-4-3-title
 graph_titles: []
 graph_type: line
 indicator_name: indicators.DEV6-4-3-title
-indicator_number: '9.c.1'
+indicator_number: 'DEV6.4.3'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
