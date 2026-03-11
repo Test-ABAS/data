@@ -1335,30 +1335,6 @@
       "title": "indicators.ECO1-11-1-title"
     },
     {
-      "path": "11-7-2/data.csv",
-      "name": "11-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
-    },
-    {
       "path": "ENV3-3-1/data.csv",
       "name": "ENV3-3-1",
       "profile": "tabular-data-resource",
@@ -1623,30 +1599,6 @@
       "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
     },
     {
-      "path": "16-10-1/data.csv",
-      "name": "16-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
-    },
-    {
       "path": "13-2-2/data.csv",
       "name": "13-2-2",
       "profile": "tabular-data-resource",
@@ -1789,30 +1741,6 @@
         ]
       },
       "title": "indicators.DST5-1-1-title"
-    },
-    {
-      "path": "11-a-1/data.csv",
-      "name": "11-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
     },
     {
       "path": "14-3-1/data.csv",
@@ -2197,30 +2125,6 @@
         ]
       },
       "title": "indicators.SOC2-1-1-title"
-    },
-    {
-      "path": "11-b-1/data.csv",
-      "name": "11-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "ECO1-4-1/data.csv",
