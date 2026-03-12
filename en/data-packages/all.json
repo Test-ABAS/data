@@ -24,7 +24,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-6-1-title"
+      "title": "Weighted average tariffs faced by small islands developing States"
     },
     {
       "path": "ECO1-1-1/data.csv",
@@ -48,7 +48,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-1-1-title"
+      "title": "Debt service as a proportion of exports of goods, services and primary income"
     },
     {
       "path": "DEV6-5-1/data.csv",
@@ -72,7 +72,7 @@
           }
         ]
       },
-      "title": "indicators.DEV6-5-1-title"
+      "title": "Existence of the Debt Sustainability Support Service for SIDS (Yes/No)"
     },
     {
       "path": "ENV3-6-1/data.csv",
@@ -96,7 +96,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-6-1-title"
+      "title": "Proportion of agricultural area under productive and sustainable agriculture"
     },
     {
       "path": "SOC2-12-1/data.csv",
@@ -120,7 +120,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-12-1-title"
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by age"
     },
     {
       "path": "SOC2-4-2/data.csv",
@@ -144,7 +144,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-4-2-title"
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "SOC2-8-2/data.csv",
@@ -168,7 +168,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-8-2-title"
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
       "path": "DST5-6-1/data.csv",
@@ -192,7 +192,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-6-1-title"
+      "title": "Unified Framework for the readiness of national policy, legal and governance frameworks for digital transformation"
     },
     {
       "path": "SOC2-10-2/data.csv",
@@ -216,7 +216,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-10-2-title"
+      "title": "Proportion of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "ENV3-1-1/data.csv",
@@ -240,7 +240,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-1-1-title"
+      "title": "International financial flows to SIDS in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
       "path": "ENV3-5-1/data.csv",
@@ -264,7 +264,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-5-1-title"
+      "title": "Coverage of protected areas in relation to marine areas"
     },
     {
       "path": "SOC2-2-1/data.csv",
@@ -288,7 +288,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-2-1-title"
+      "title": "Health worker density and distribution"
     },
     {
       "path": "ECO1-11-1/data.csv",
@@ -312,7 +312,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-11-1-title"
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "ENV3-3-1/data.csv",
@@ -336,7 +336,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-3-1-title"
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "ECO1-9-1/data.csv",
@@ -360,7 +360,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-9-1-title"
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
       "path": "DST5-2-1/data.csv",
@@ -384,7 +384,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-2-1-title"
+      "title": "Number of SIDS with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
       "path": "ECO1-3-1/data.csv",
@@ -408,7 +408,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-3-1-title"
+      "title": "Foreign direct investment (FDI) inflows"
     },
     {
       "path": "ECO1-12-2/data.csv",
@@ -432,7 +432,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-12-2-title"
+      "title": "Export of ocean-based goods"
     },
     {
       "path": "DST5-1-1/data.csv",
@@ -456,7 +456,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-1-1-title"
+      "title": "Statistical capacity indicators"
     },
     {
       "path": "ECO1-6-2/data.csv",
@@ -480,7 +480,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-6-2-title"
+      "title": "SIDS share of global exports"
     },
     {
       "path": "DEV6-4-1/data.csv",
@@ -504,7 +504,7 @@
           }
         ]
       },
-      "title": "indicators.DEV6-4-1-title"
+      "title": "Existence of the Global Data Hub for SIDS (Yes/No)"
     },
     {
       "path": "ECO1-10-1/data.csv",
@@ -528,7 +528,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-10-1-title"
+      "title": "Youth employment rate"
     },
     {
       "path": "DST5-3-1/data.csv",
@@ -552,7 +552,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-3-1-title"
+      "title": "Number of SIDS adopting a national strategy, policy or initiative related to artificial intelligence"
     },
     {
       "path": "RES4-6-1/data.csv",
@@ -576,7 +576,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-6-1-title"
+      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
     },
     {
       "path": "FIN7-2-1/data.csv",
@@ -600,7 +600,7 @@
           }
         ]
       },
-      "title": "indicators.FIN7-2-1-title"
+      "title": "FIN7-2-1"
     },
     {
       "path": "SOC2-1-1/data.csv",
@@ -624,7 +624,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-1-1-title"
+      "title": "Coverage of essential health services"
     },
     {
       "path": "ECO1-4-1/data.csv",
@@ -648,7 +648,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-4-1-title"
+      "title": "Gross receipts by SIDS of official sustainable development grants"
     },
     {
       "path": "DEV6-4-2/data.csv",
@@ -672,7 +672,7 @@
           }
         ]
       },
-      "title": "indicators.DEV6-4-2-title"
+      "title": "Existence of the Biennial Island Investment Forum for SIDS (Yes/No)"
     },
     {
       "path": "SOC2-10-1/data.csv",
@@ -696,7 +696,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-10-1-title"
+      "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
     },
     {
       "path": "SOC2-5-2/data.csv",
@@ -720,7 +720,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-5-2-title"
+      "title": "Current tobacco use, tobacco smoking and cigarette smoking, age-standardized"
     },
     {
       "path": "SOC2-6-1/data.csv",
@@ -744,7 +744,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-6-1-title"
+      "title": "Total net official development assistance to medical research and basic health sectors"
     },
     {
       "path": "SOC2-7-1/data.csv",
@@ -768,7 +768,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-7-1-title"
+      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
       "path": "RES4-7-1/data.csv",
@@ -792,7 +792,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-7-1-title"
+      "title": "Level of water stress - freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
       "path": "RES4-3-2/data.csv",
@@ -816,7 +816,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-3-2-title"
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "RES4-4-1/data.csv",
@@ -840,7 +840,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-4-1-title"
+      "title": "Number of SIDS that have multi-hazard early warning systems"
     },
     {
       "path": "ENV3-5-2/data.csv",
@@ -864,7 +864,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-5-2-title"
+      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
     },
     {
       "path": "ENV3-10-1/data.csv",
@@ -888,7 +888,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-10-1-title"
+      "title": "Number of SIDS updating and submitting National Biodiversity Strategy and Action Plans (NBSAPs)"
     },
     {
       "path": "ECO1-8-1/data.csv",
@@ -912,7 +912,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-8-1-title"
+      "title": "Adoption of e-commerce legislation"
     },
     {
       "path": "SOC2-4-1/data.csv",
@@ -936,7 +936,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-4-1-title"
+      "title": "Proportion of population using safely managed drinking water services"
     },
     {
       "path": "ECO1-5-1/data.csv",
@@ -960,7 +960,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-5-1-title"
+      "title": "Productive Capacities Index (PCI)"
     },
     {
       "path": "DST5-7-3/data.csv",
@@ -984,7 +984,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-7-3-title"
+      "title": "UN E-Government Development Index (EGDI)"
     },
     {
       "path": "ECO1-13-1/data.csv",
@@ -1008,7 +1008,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-13-1-title"
+      "title": "Port Liner Shipping Connectivity Index (Port LSCI)"
     },
     {
       "path": "ECO1-11-2/data.csv",
@@ -1032,7 +1032,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-11-2-title"
+      "title": "Employed persons in the tourism industries"
     },
     {
       "path": "DST5-5-1/data.csv",
@@ -1056,7 +1056,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-5-1-title"
+      "title": "Research and development expenditure as a proportion of GDP"
     },
     {
       "path": "SOC2-5-1/data.csv",
@@ -1080,7 +1080,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-5-1-title"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in liters of pure alcohol)"
     },
     {
       "path": "ENV3-7-1/data.csv",
@@ -1104,7 +1104,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-7-1-title"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments for SIDS"
     },
     {
       "path": "ENV3-11-1/data.csv",
@@ -1128,7 +1128,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-11-1-title"
+      "title": "Number of SIDS that have ratified the BBNJ Agreement"
     },
     {
       "path": "DEV6-2-1/data.csv",
@@ -1152,7 +1152,7 @@
           }
         ]
       },
-      "title": "indicators.DEV6-2-1-title"
+      "title": "Dollar value of official development assistance committed to SIDS"
     },
     {
       "path": "ENV3-9-1/data.csv",
@@ -1176,7 +1176,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-9-1-title"
+      "title": "Number of SIDS that have confirmed that their loss and damage response plans, policies, strategies, frameworks and other instruments are being supported in line with their needs and priorities"
     },
     {
       "path": "SOC2-11-1/data.csv",
@@ -1200,7 +1200,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-11-1-title"
+      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
     },
     {
       "path": "SOC2-9-1/data.csv",
@@ -1224,7 +1224,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-9-1-title"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "SOC2-5-3/data.csv",
@@ -1248,7 +1248,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-5-3-title"
+      "title": "Prevalence of obesity among adults, BMI >= 30 (age-standardized estimate) (%)"
     },
     {
       "path": "DST5-7-1/data.csv",
@@ -1272,7 +1272,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-7-1-title"
+      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "ECO1-7-1/data.csv",
@@ -1296,7 +1296,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-7-1-title"
+      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "DEV6-3-2/data.csv",
@@ -1320,7 +1320,7 @@
           }
         ]
       },
-      "title": "indicators.DEV6-3-2-title"
+      "title": "South-to-South cooperation for SIDS"
     },
     {
       "path": "SOC2-3-2/data.csv",
@@ -1344,7 +1344,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-3-2-title"
+      "title": "Suicide mortality rate"
     },
     {
       "path": "ECO1-7-2/data.csv",
@@ -1368,7 +1368,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-7-2-title"
+      "title": "Proportion of medium and high-tech industry value added in total value added"
     },
     {
       "path": "DST5-7-2/data.csv",
@@ -1392,7 +1392,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-7-2-title"
+      "title": "Proportion of individuals using the internet"
     },
     {
       "path": "FIN7-1-1/data.csv",
@@ -1416,7 +1416,7 @@
           }
         ]
       },
-      "title": "indicators.FIN7-1-1-title"
+      "title": "Proportion of members and voting rights of SIDS in international organizations"
     },
     {
       "path": "ENV3-8-1/data.csv",
@@ -1440,7 +1440,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-8-1-title"
+      "title": "Degree of integrated water resources management"
     },
     {
       "path": "ECO1-6-3/data.csv",
@@ -1464,7 +1464,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-6-3-title"
+      "title": "Theil concentration Index of exports"
     },
     {
       "path": "SOC2-9-2/data.csv",
@@ -1488,7 +1488,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-9-2-title"
+      "title": "Gross enrolment ratio for tertiary education by sex"
     },
     {
       "path": "SOC2-12-2/data.csv",
@@ -1512,7 +1512,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-12-2-title"
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
       "path": "ENV3-9-2/data.csv",
@@ -1536,7 +1536,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-9-2-title"
+      "title": "Number of SIDS that have confirmed that their adaptation plans, policies, strategies, frameworks and other instruments are being supported in line with their needs and priorities"
     },
     {
       "path": "ECO1-12-1/data.csv",
@@ -1560,7 +1560,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-12-1-title"
+      "title": "Sustainable fisheries as a proportion of GDP in SIDS"
     },
     {
       "path": "ENV3-2-1/data.csv",
@@ -1608,7 +1608,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-8-1-title"
+      "title": "Assessed score of overall capacity of multi-hazard early warning system"
     },
     {
       "path": "SOC2-3-1/data.csv",
@@ -1632,7 +1632,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-3-1-title"
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "SOC2-8-1/data.csv",
@@ -1656,7 +1656,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-8-1-title"
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
     },
     {
       "path": "RES4-1-2/data.csv",
@@ -1680,7 +1680,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-1-2-title"
+      "title": "Total official international support (ODA plus other official flows) for disaster risk reduction capacity-building"
     },
     {
       "path": "DEV6-4-3/data.csv",
@@ -1704,7 +1704,7 @@
           }
         ]
       },
-      "title": "indicators.DEV6-4-3-title"
+      "title": "Existence of the Technology and Innovation Mechanism (Yes/No)"
     },
     {
       "path": "DST5-2-2/data.csv",
@@ -1728,7 +1728,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-2-2-title"
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in SIDS"
     },
     {
       "path": "DEV6-1-1/data.csv",
@@ -1752,7 +1752,7 @@
           }
         ]
       },
-      "title": "indicators.DEV6-1-1-title"
+      "title": "Number of SIDS reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
       "path": "RES4-3-1/data.csv",
@@ -1776,7 +1776,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-3-1-title"
+      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
     },
     {
       "path": "ENV3-9-3/data.csv",
@@ -1800,7 +1800,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-9-3-title"
+      "title": "Number of SIDS that have confirmed that their mitigations plans, policies, strategies, frameworks and other instruments are being supported in line with their needs and priorities"
     },
     {
       "path": "ECO1-2-1/data.csv",
@@ -1824,7 +1824,7 @@
           }
         ]
       },
-      "title": "indicators.ECO1-2-1-title"
+      "title": "Total amount of official development assistance to SIDS"
     },
     {
       "path": "RES4-2-1/data.csv",
@@ -1848,7 +1848,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-2-1-title"
+      "title": "Number of SIDS that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction"
     },
     {
       "path": "ENV3-4-1/data.csv",
@@ -1872,7 +1872,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-4-1-title"
+      "title": "Proportion of total research budget allocated to research in the field of marine technology"
     },
     {
       "path": "RES4-1-1/data.csv",
@@ -1896,7 +1896,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-1-1-title"
+      "title": "Total official international support, (official development assistance (ODA) plus other official flows), for national disaster risk reduction actions disaggregated by source of finance"
     },
     {
       "path": "ENV3-1-2/data.csv",
@@ -1920,7 +1920,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-1-2-title"
+      "title": "Installed renewable energy-generating capacity in SIDS (in watts per capita)"
     },
     {
       "path": "ENV3-3-2/data.csv",
@@ -1944,7 +1944,7 @@
           }
         ]
       },
-      "title": "indicators.ENV3-3-2-title"
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "RES4-5-1/data.csv",
@@ -1968,7 +1968,7 @@
           }
         ]
       },
-      "title": "indicators.RES4-5-1-title"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "DST5-4-1/data.csv",
@@ -1992,7 +1992,7 @@
           }
         ]
       },
-      "title": "indicators.DST5-4-1-title"
+      "title": "Proportion of SIDS that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "SOC2-13-1/data.csv",
@@ -2016,7 +2016,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-13-1-title"
+      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
     },
     {
       "path": "SOC2-7-2/data.csv",
@@ -2040,31 +2040,7 @@
           }
         ]
       },
-      "title": "indicators.SOC2-7-2-title"
-    },
-    {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-1-1"
+      "title": "Prevalence of undernourishment"
     }
   ]
 }
