@@ -4,7 +4,7 @@ instructions_short: Click on each section for %country.name The Antigua and Barb
   global indicator data.
 instructions_shorter: Select each section for indicator data.
 heading: "%country.name data for ABAS section indicators"
-heading_short: "%country.name data for the ABAS sections"
+heading_short: "%country.name data for the ABAS M&E Framework sections"
 download_all: Download all data (.zip)
 zip_file: ZIP file
 file_size: Size
