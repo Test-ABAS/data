@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: indicators.SOC2-5-1-title
+graph_title: indicators.ABAS2-5-1-title
 graph_titles: []
 graph_type: line
-indicator_name: indicators.SOC2-5-1-title
-indicator_number: 'SOC2.5.1'
+indicator_name: indicators.ABAS2-5-1-title
+indicator_number: 'ABAS2.5.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
