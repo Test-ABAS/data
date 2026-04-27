@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: indicators.ECO1-10-1-title
+graph_title: indicators.ABAS1-10-1-title
 graph_titles: []
 graph_type: line
-indicator_name: indicators.ECO1-10-1-title
-indicator_number: 'ECO1.10.1'
+indicator_name: indicators.ABAS1-10-1-title
+indicator_number: 'ABAS1.10.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
