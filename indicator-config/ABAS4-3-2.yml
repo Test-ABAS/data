@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: indicators.RES4-3-2-title
+graph_title: indicators.ABAS4-3-2-title
 graph_titles: []
 graph_type: line
-indicator_name: indicators.RES4-3-2-title
-indicator_number: 'RES4.3.2'
+indicator_name: indicators.ABAS4-3-2-title
+indicator_number: 'ABAS4.3.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
