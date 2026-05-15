@@ -59,6 +59,10 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
+  - class: InputCsvDataRemote
+    indicator_id_map: sdg_indicator_ids_data.yml
+  - class: InputYamlMetaRemote
+    indicator_id_map: sdg_indicator_ids_meta.yml
 
 # Translations
 # ------------
