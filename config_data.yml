@@ -38,6 +38,28 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
+  - class: InputSdmxMl_Multiple
+    path_pattern: 'data/*.xml'
+    dimension_map:
+      REF_AREA|GH: ''
+    drop_dimensions:
+      - SOURCE_DETAIL
+      - NATURE
+      - FREQ
+      - REPORTING_TYPE
+    drop_singleton_dimensions: true
+    dsd: 'GSS_DSD.xml'
+    import_codes: true
+    indicator_id_map:
+     _L_GH_030402_01: ABAS2-3-2
+     SH_STA_SCIDE: ABAS2-3-2
+     SH_STA_SCIDEN: ABAS2-3-2
+     SH_IHR_CAPPRD: ABAS4-6-1
+     SH_IHR_CAPS: ABAS4-6-1
+     _L_GH_030c01_01: ABAS2-2-1
+     _L_GH_030c01_02: ABAS2-2-1
+     SH_MED_DEN: ABAS2-2-1
+     SH_MED_HWRKDIS: ABAS2-2-1
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
