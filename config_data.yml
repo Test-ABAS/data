@@ -51,9 +51,15 @@ inputs:
     dsd: 'GSS_DSD.xml'
     import_codes: true
     indicator_id_map:
-     ER_WLD_TRPOACH: 15-7-1
-     VC_DSR_DAFF: 1-5-1
-     _L_UG_100A01_1: 10-a-1
+     _L_GH_030402_01: ABAS2-3-2
+     SH_STA_SCIDE: ABAS2-3-2
+     SH_STA_SCIDEN: ABAS2-3-2
+     SH_IHR_CAPPRD: ABAS4-6-1
+     SH_IHR_CAPS: ABAS4-6-1
+     _L_GH_030c01_01: ABAS2-2-1
+     _L_GH_030c01_02: ABAS2-2-1
+     SH_MED_DEN: ABAS2-2-1
+     SH_MED_HWRKDIS: ABAS2-2-1
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
