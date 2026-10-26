@@ -1,4 +1,7 @@
-﻿composite_breakdown_label: ''
+auto_progress_calculation: false
+base_year: 2024
+target_year: 2034
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
