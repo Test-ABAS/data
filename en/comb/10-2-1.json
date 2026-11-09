@@ -1,0 +1,1 @@
+{"data":{"Year":[2017,2019],"SERIES":["SI_POV_50MI","SI_POV_50MI"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"Value":[12.7,16.6]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

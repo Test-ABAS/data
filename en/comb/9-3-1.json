@@ -1,0 +1,1 @@
+{"data":{"Year":[2019],"SERIES":["NV_IND_SSIS"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"Value":[24]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

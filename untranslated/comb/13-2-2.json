@@ -1,0 +1,1 @@
+{"data":{"Year":[2015,2016,2017,2023],"SERIES":["EN_ATM_GHGT_NAIP","EN_ATM_GHGT_NAIP","EN_ATM_GHGT_NAIP","EN_ATM_GHGT_NAIP"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"Value":[29.86,30.24,30.62,37.98]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

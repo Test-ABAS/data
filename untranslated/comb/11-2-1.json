@@ -1,0 +1,1 @@
+{"data":{"Year":[2019,2020,2021,2022],"SERIES":["SP_TRN_PUBL","SP_TRN_PUBL","SP_TRN_PUBL","SP_TRN_PUBL"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"Value":[28,32,35,46]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

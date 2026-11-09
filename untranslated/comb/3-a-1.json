@@ -1,0 +1,1 @@
+{"data":{"Year":[2024,2024],"SERIES":["SH_PRV_SMOK","SH_PRV_SMOK"],"REF_AREA":[null,null],"SEX":["F","M"],"AGE":["Y15T49","Y15T49"],"UNIT_MEASURE":["PT","PT"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"Value":[1.5,19.2]},"edges":{"From":["SEX","AGE","OBS_STATUS"],"To":["AGE","OBS_STATUS","UNIT_MULT"]}}

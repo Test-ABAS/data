@@ -1,0 +1,1 @@
+{"data":{"Year":[2023],"SERIES":["ER_WLD_TRPOACH"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"Value":[20]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

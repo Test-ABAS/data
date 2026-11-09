@@ -1,0 +1,1 @@
+{"data":{"Year":[2023,2024],"SERIES":["DC_TRF_TFDV","DC_TRF_TFDV"],"REF_AREA":[null,null],"UNIT_MEASURE":["USD","USD"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"Value":[886706286.3700000048,772576720.8400000334]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

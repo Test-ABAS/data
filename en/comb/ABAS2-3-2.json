@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2016,2020],"SERIES":["SH_STA_SCIDE","SH_STA_SCIDE"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"Value":[19.1,23.63]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

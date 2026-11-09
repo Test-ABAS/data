@@ -1,0 +1,1 @@
+{"data":{"Year":[2022],"SERIES":["EN_REF_WASCOL"],"REF_AREA":[null],"URBANISATION":["U"],"UNIT_MEASURE":["PT"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"Value":[63]},"edges":{"From":["URBANISATION","OBS_STATUS"],"To":["OBS_STATUS","UNIT_MULT"]}}

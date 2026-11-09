@@ -1,0 +1,1 @@
+{"data":{"Year":[2019,2024,2019,2024],"SERIES":["SE_GPI_PTNPRE","SE_GPI_PTNPRE","SE_LGP_ACHI","SE_LGP_ACHI"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["IX","IX","IX","IX"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"Value":[1.0,1.0,1.19,0.91]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}
