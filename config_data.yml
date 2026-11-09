@@ -39,17 +39,17 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_Structure
-    source: https://ke.sdmx.afdb.org/ns-ws/rest/data/KE1,DF_KE_SDG,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
-    dsd: https://ke.sdmx.afdb.org/ns-ws/rest/dataflow/KE1/DF_KE_SDG/1.0/?detail=Full&references=Descendants
+    source: https://zw.sdmx.afdb.org/ns-ws/rest/data/ZW1,DF_ZW_SDG,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://zw.sdmx.afdb.org/ns-ws/rest/datastructure/ZW1/SDG/1.1/?detail=Full&references=Descendants
     dimension_map:
-      REF_AREA|KE: ''
+      REF_AREA|ZW: ''
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
       - NATURE
-      - TIME_COVERAGE
-      - COMMENT_OBS
+      - TIME_PERIOD
       - SOURCE_DETAIL
+      - COMMENT_OBS
     drop_singleton_dimensions: false
     import_series_attributes: true
     import_observation_attributes: false
