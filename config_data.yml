@@ -39,44 +39,24 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_Structure
-    path_pattern: 'data/*.xml'
-    dsd: 'GSS_DSD.xml'
-
-    import_series_attributes: true
-    import_observation_attributes: true
-    import_codes: true
-
-    indicator_id_map:
-      # ABAS 2.1.1 = SDG 3.8.1
-      SH_ACS_UNHC: ABAS2-1-1
-
-      # ABAS 2.2.1 = SDG 3.c.1
-      _L_GH_030c01_01: ABAS2-2-1
-      _L_GH_030c01_02: ABAS2-2-1
-
-      # ABAS 2.3.1 = SDG 3.4.1
-      _L_GH_030401_01: ABAS2-3-1
-
-      # ABAS 2.3.2 = SDG 3.4.2
-      _L_GH_030402_01: ABAS2-3-2
-
-      # ABAS 2.5.1 = SDG 3.5.2
-      SH_ALC_CONSPT: ABAS2-5-1
-
-      # ABAS 2.6.1 = SDG 3.b.2
-      DC_TOF_HLTHL: ABAS2-6-1
-
-      # ABAS 4.6.1 = SDG 3.d.1
-      SH_IHR_CAPPRD: ABAS4-6-1
-      SH_IHR_CAPS: ABAS4-6-1
-
-    drop_singleton_dimensions: false
-
+    source: https://ke.sdmx.afdb.org/ns-ws/rest/data/KE1,DF_KE_SDG,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://ke.sdmx.afdb.org/ns-ws/rest/dataflow/KE1/DF_KE_SDG/1.0/?detail=Full&references=Descendants
+    dimension_map:
+      REF_AREA|KE: ''
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
       - NATURE
-      - TIME_PERIOD
+      - TIME_COVERAGE
+      - COMMENT_OBS
+      - SOURCE_DETAIL
+    drop_singleton_dimensions: false
+    import_series_attributes: true
+    import_observation_attributes: false
+    import_codes: true
+    indicator_id_map:
+     AG_FLS_IDX: 12-3-1
+     _L_KE_100C01_01: 10-c-1
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
