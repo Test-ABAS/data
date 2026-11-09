@@ -55,8 +55,16 @@ inputs:
     import_observation_attributes: false
     import_codes: true
     indicator_id_map:
-     AG_FLS_IDX: 12-3-1
-     _L_KE_100C01_01: 10-c-1
+      SH_ACS_UNHC: ABAS2-1-1
+      SH_MED_DEN: ABAS2-2-1
+      SH_DTH_NCOM: ABAS2-3-1
+      SH_STA_SCIDE: ABAS2-3-2
+      SH_ALC_CONSPT: ABAS2-5-1
+      DC_TOF_HLTHL: ABAS2-6-1
+      SH_IHR_CAPPRD: ABAS4-6-1
+    request_params: 
+     headers: 
+        User-Agent: Open-SDG-Build-1 
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
