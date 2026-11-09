@@ -39,8 +39,8 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_Structure
-    source: https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/Goal_3.xml
-    dsd: https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/GSS_DSD.xml
+    path_pattern: 'data/*.xml'
+    dsd: 'GSS_DSD.xml'
 
     import_series_attributes: true
     import_observation_attributes: true
