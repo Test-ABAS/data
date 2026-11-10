@@ -67,7 +67,8 @@ inputs:
         User-Agent: Open-SDG-Build-1 
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
+    path_pattern: /*-*.csv
+    source: https://github.com/NBS-Nigeria/open-sdg-data/tree/develop/data
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
