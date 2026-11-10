@@ -39,8 +39,8 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_Structure
-    source: https://github.com/Test-ABAS/sdg-data/blob/develop/data/KENYA_SDG_2025.xml
-    dsd: https://github.com/SDG-Kenya/Data/blob/develop/SDG_DSD_2025.xml
+    source: https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/KENYA_SDG_2025.xml
+    dsd: https://raw.githubusercontent.com/SDG-Kenya/Data/refs/heads/develop/SDG_DSD_2025.xml
     dimension_map:
       REF_AREA|KY: ''
     drop_dimensions:
