@@ -12847,54 +12847,6 @@
       "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
     },
     {
-      "path": "ABAS6-1-1/data.csv",
-      "name": "ABAS6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of SIDS reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
-    },
-    {
-      "path": "ABAS1-1-1/data.csv",
-      "name": "ABAS1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Debt service as a proportion of exports of goods, services and primary income"
-    },
-    {
       "path": "ABAS5-2-1/data.csv",
       "name": "ABAS5-2-1",
       "profile": "tabular-data-resource",
@@ -13301,6 +13253,30 @@
         ]
       },
       "title": "Existence of the Technology and Innovation Mechanism (Yes/No)"
+    },
+    {
+      "path": "ABAS1-1-1/data.csv",
+      "name": "ABAS1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Debt service as a proportion of exports of goods, services and primary income"
     },
     {
       "path": "ABAS2-10-2/data.csv",
@@ -13925,6 +13901,30 @@
         ]
       },
       "title": "Existence of the Global Data Hub for SIDS (Yes/No)"
+    },
+    {
+      "path": "ABAS6-1-1/data.csv",
+      "name": "ABAS6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of SIDS reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
       "path": "ABAS5-4-1/data.csv",
