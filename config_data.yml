@@ -39,10 +39,10 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_Structure
-    source: https://zw.sdmx.afdb.org/ns-ws/rest/data/ZW1,DF_ZW_SDG,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
-    dsd: https://zw.sdmx.afdb.org/ns-ws/rest/datastructure/ZW1/SDG/1.1/?detail=Full&references=Descendants
+    source: https://github.com/SDG-Kenya/Data/blob/develop/SDG_DSD_2025.xml
+    dsd: https://github.com/SDG-Kenya/Data/blob/develop/SDG_DSD_2025.xml
     dimension_map:
-      REF_AREA|ZW: ''
+      REF_AREA|KY: ''
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
@@ -54,17 +54,7 @@ inputs:
     import_series_attributes: true
     import_observation_attributes: false
     import_codes: true
-    indicator_id_map:
-      SH_ACS_UNHC: ABAS2-1-1
-      SH_MED_DEN: ABAS2-2-1
-      SH_DTH_NCOM: ABAS2-3-1
-      SH_STA_SCIDE: ABAS2-3-2
-      SH_ALC_CONSPT: ABAS2-5-1
-      DC_TOF_HLTHL: ABAS2-6-1
-      SH_IHR_CAPPRD: ABAS4-6-1
-    request_params: 
-     headers: 
-        User-Agent: Open-SDG-Build-1 
+
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: /*-*.csv
