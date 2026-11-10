@@ -40,7 +40,7 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_Structure
     source: https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/KENYA_SDG_2025.xml
-    dsd: SDG_DSD_2025.xml
+    dsd: https://raw.githubusercontent.com/SDG-Kenya/Data/refs/heads/develop/SDG_DSD_2025.xml
     dimension_map:
       REF_AREA|KY: ''
     drop_dimensions:
@@ -51,7 +51,7 @@ inputs:
       - SOURCE_DETAIL
       - COMMENT_OBS
     drop_singleton_dimensions: false
-    import_series_attributes: true
+    import_series_attributes: false
     import_observation_attributes: false
     import_codes: true
 
