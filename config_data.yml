@@ -38,26 +38,13 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxMl_Structure
-    source: https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/KENYA_SDG_2025.xml
-    dsd: https://raw.githubusercontent.com/SDG-Kenya/Data/refs/heads/develop/SDG_DSD_2025.xml
-    dimension_map:
-      REF_AREA|KY: ''
-    drop_dimensions:
-      - FREQ
-      - REPORTING_TYPE
-      - NATURE
-      - TIME_PERIOD
-      - SOURCE_DETAIL
-      - COMMENT_OBS
-    drop_singleton_dimensions: false
-    import_series_attributes: false
-    import_observation_attributes: false
-    import_codes: true
 
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: /*-*.csv
+  - class: InputCsvDataRemote
+    indicator_id_map:
+    'https://example.com/path/to/my/file1.csv': 1.1.1
+    'https://example.com/path/to/my/file2.csv':
+      - 1.2.1
+      - 5.1.1
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
