@@ -1,1 +1,0 @@
-{"data":{"Year":[2023],"SERIES":["DC_CLC_100B"],"REF_AREA":[null],"UNIT_MEASURE":["CON_USD"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"Value":[226000]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

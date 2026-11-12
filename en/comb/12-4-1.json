@@ -1,1 +1,0 @@
-{"data":{"Year":[2024,2024,2024,2024,2024],"SERIES":["SG_HAZ_CMRBASEL","SG_HAZ_CMRMNMT","SG_HAZ_CMRMNTRL","SG_HAZ_CMRROTDAM","SG_HAZ_CMRSTHOLM"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["T","T","T","T","T"],"OBS_STATUS":["A","A","A","A","A"],"UNIT_MULT":["0","0","0","0","0"],"Value":[100,100,100,100,100]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

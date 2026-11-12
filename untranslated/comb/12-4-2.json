@@ -1,1 +1,0 @@
-{"data":{"Year":[2024,2024],"SERIES":["EN_HAZ_GENV","EN_MWT_GENV"],"REF_AREA":[null,null],"UNIT_MEASURE":["T","T"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"Value":[122,122]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

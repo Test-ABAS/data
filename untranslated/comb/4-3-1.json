@@ -1,1 +1,0 @@
-{"data":{"Year":[2017,2023,2024],"SERIES":["SE_ADT_EDUCTRN","SE_ADT_EDUCTRN","SE_ADT_EDUCTRN"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"Value":[37.2,17.8,59.9]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

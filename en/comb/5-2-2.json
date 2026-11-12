@@ -1,1 +1,0 @@
-{"data":{"Year":[2022,2023,2024],"SERIES":["VC_VAW_NONMARR","VC_VAW_NONMARR","VC_VAW_NONMARR"],"REF_AREA":[null,null,null],"SEX":["F","F","F"],"AGE":["Y15T49","Y15T49","Y15T49"],"UNIT_MEASURE":["PT","PT","PT"],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"Value":[0.83,0.92,0.1]},"edges":{"From":["SEX","AGE","OBS_STATUS"],"To":["AGE","OBS_STATUS","UNIT_MULT"]}}

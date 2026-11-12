@@ -1,1 +1,0 @@
-{"data":{"Year":[2015,2020],"SERIES":["_L_ZW_030802","_L_ZW_030802"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"Value":[24.0,10.45]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

@@ -1,1 +1,0 @@
-{"data":{"Year":[2024],"SERIES":["VC_PRS_UNSNT"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"Value":[22.6]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

@@ -1,1 +1,0 @@
-{"data":{"Year":[2019],"SERIES":["SH_STA_WASH"],"REF_AREA":[null],"UNIT_MEASURE":["PER_1000_POP"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"Value":[36.2]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

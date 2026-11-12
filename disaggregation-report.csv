@@ -1,9 +1,2 @@
 Disaggregation,Number of indicators,Number of values
-AGE,17,16
-DISABILITY_STATUS,1,1
-EDUCATION_LEV,4,5
-OBS_STATUS,176,1
-REF_AREA,25,10
-SEX,32,2
-UNIT_MULT,176,1
-URBANISATION,24,2
+Group,1,2

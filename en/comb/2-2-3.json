@@ -1,1 +1,0 @@
-{"data":{"Year":[2024,2024],"SERIES":["SH_STA_ANEM_NPRG","SH_STA_ANEM_PREG"],"REF_AREA":[null,null],"SEX":["F","F"],"URBANISATION":["U","U"],"UNIT_MEASURE":["PT","PT"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"Value":[41.2,50.7]},"edges":{"From":["SEX","URBANISATION","OBS_STATUS"],"To":["URBANISATION","OBS_STATUS","UNIT_MULT"]}}

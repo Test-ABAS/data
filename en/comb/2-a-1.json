@@ -1,1 +1,0 @@
-{"data":{"Year":[2021,2022,2023,2024],"SERIES":["AG_PRD_ORTIND","AG_PRD_ORTIND","AG_PRD_ORTIND","AG_PRD_ORTIND"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["IX","IX","IX","IX"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"Value":[1.78,1.51,0.67,1.58]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

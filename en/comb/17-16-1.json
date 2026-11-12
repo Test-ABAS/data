@@ -1,1 +1,0 @@
-{"data":{"Year":[2024],"SERIES":["SG_PLN_MSTKSDG_P"],"REF_AREA":[null],"UNIT_MEASURE":["BOOL"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"Value":[1]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}
