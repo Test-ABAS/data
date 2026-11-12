@@ -235,6 +235,7 @@ inputs:
       - 17.15.1
       - 17.17.1
       - 17.18.2
+
   - class: InputCsvDataRemote
     indicator_id_map:
       'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/indicator_1-1-1.csv': ABAS1-1-1
