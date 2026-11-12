@@ -58,7 +58,7 @@ inputs:
 
   - class: InputYamlMetaRemote
     indicator_id_map:
-      'https://github.com/Test-ABAS/sdg-data/blob/develop/meta/1-1-1.yml': ABAS1-1-1
+      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/meta/1-1-1.yml': ABAS1-1-1
 
     
 
