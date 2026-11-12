@@ -41,10 +41,7 @@ inputs:
 
   - class: InputCsvDataRemote
     indicator_id_map:
-    'https://github.com/Test-ABAS/sdg-data/blob/develop/data/indicator_1-1-1.csv': ABAS1-1-1
-    'https://example.com/path/to/my/file2.csv':
-      - 1.2.1
-      - 5.1.1
+      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/indicator_1-1-1.csv': ABAS1-1-1
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
