@@ -60,7 +60,9 @@ inputs:
     indicator_id_map:
       'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/meta/1-1-1.yml': ABAS1-1-1
 
-    
+  - class: InputYamlMeta
+    path_pattern: meta-overrides/*.yml
+    git: false  
 
 # Translations
 # ------------
