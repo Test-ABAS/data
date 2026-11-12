@@ -40,7 +40,7 @@ src_dir: ''
 inputs:
   - class: InputCsvDataRemote
     indicator_id_map:
-      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/indicator_17-4-1.csv':
+      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/indicator_1-1-1.csv':
         - ABAS1-1-1
 
   - class: InputYamlMeta
