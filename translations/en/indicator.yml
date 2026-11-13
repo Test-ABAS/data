@@ -1,6 +1,1 @@
-national_metadata_blurb: This table provides metadata for the actual indicator
-  available from %country_name statistics closest to the corresponding
-  global ABAS M&E Framework indicator. Please note that even when the global ABAS M&E Framework indicator is
-  fully available from %country_adjective statistics, this table
-  should be consulted for information on national methodology and other
-  %country_adjective-specific metadata information.
+national_metadata_blurb: 'This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global ABAS M&E Framework indicator. Please note that even when the global ABAS M&E Framework indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.'
