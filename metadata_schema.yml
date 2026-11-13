@@ -303,8 +303,14 @@ prose:
       - name: SDG_RELATED_INDICATORS
         field:
             element: text
-            label: Related indicators
+            label: ABAS related indicators
             translation_key: metadata_fields.SDG_RELATED_INDICATORS
+            scope: national
+      - name: ABAS_RELATED_INDICATORS
+        field:
+            element: text
+            label: SDG framework equivalent indicator
+            translation_key: metadata_fields.ABAS_RELATED_INDICATORS
             scope: national
       - name: CONTACT
         field:
