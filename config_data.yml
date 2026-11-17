@@ -59,7 +59,8 @@ inputs:
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
     git: true
-    17-4-1: ABAS1-1-1
+    indicator_id_map:
+      17-4-1: ABAS1-1-1
 
   - class: InputYamlMetaRemote
     indicator_id_map:
