@@ -56,16 +56,16 @@ inputs:
     git: true
     git_data_dir: data
 
+  - class: InputYamlMetaRemote
+    indicator_id_map:
+      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/meta/1-1-1.yml': ABAS1-1-1
+  
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
     git: true
     indicator_id_map:
-      17-4-1: ABAS1-1-1
-
-  - class: InputYamlMetaRemote
-    indicator_id_map:
-      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/meta/1-1-1.yml': ABAS1-1-1
-
+     17-4-1: ABAS1-1-1
+     
   - class: InputYamlMeta
     path_pattern: meta-overrides/*.yml
     git: false  
