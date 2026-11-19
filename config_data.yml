@@ -43,6 +43,10 @@ inputs:
   #    'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/indicator_17-4-1.csv':
   #      - ABAS1-1-1
 
+  - class: InputCsvData
+    # This describes the data files, relative to the "src_dir" indicated above.
+    path_pattern: data/*-*.csv
+
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
