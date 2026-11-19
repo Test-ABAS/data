@@ -38,10 +38,10 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputCsvDataRemote
-    indicator_id_map:
-      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/indicator_1-1-1.csv':
-        - ABAS1-1-1
+  #- class: InputCsvDataRemote
+  #  indicator_id_map:
+  #    'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/data/indicator_17-4-1.csv':
+  #      - ABAS1-1-1
 
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
@@ -56,15 +56,15 @@ inputs:
     git: true
     git_data_dir: data
 
-  - class: InputYamlMetaRemote
-    indicator_id_map:
-      'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/meta/1-1-1.yml': ABAS1-1-1
+  #- class: InputYamlMetaRemote
+  #  indicator_id_map:
+  #    'https://raw.githubusercontent.com/Test-ABAS/sdg-data/refs/heads/develop/meta/17-4-1.yml': ABAS1-1-1
   
-  - class: InputWordMeta
-    path_pattern: meta/*-*.docm
-    git: true
-    indicator_id_conversions:
-     17-4-1: ABAS1-1-1
+  #- class: InputWordMeta
+  #  path_pattern: meta/*-*.docm
+  #  git: true
+  #  indicator_id_conversions:
+  #   17-4-1: ABAS1-1-1
      
   - class: InputYamlMeta
     path_pattern: meta-overrides/*.yml
