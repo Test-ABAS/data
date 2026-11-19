@@ -69,6 +69,10 @@ inputs:
   #  git: true
   #  indicator_id_conversions:
   #   17-4-1: ABAS1-1-1
+
+  - class: InputWordMetaRemote
+    indicator_id_map:
+      'https://github.com/SDG-Kenya/Data/raw/refs/heads/develop/meta/17-4-1.docm': ABAS1-1-1
      
   - class: InputYamlMeta
     path_pattern: meta-overrides/*.yml
