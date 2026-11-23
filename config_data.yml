@@ -57,12 +57,12 @@ inputs:
   #  dimension_map:
   #    REF_AREA|[COUNTRY CODE]: ''
   #  drop_dimensions:
-  #   - FREQ
-  #   - REPORTING_TYPE
-  #   - NATURE
-  #   - TIME_COVERAGE
-  #   - COMMENT_OBS
-  #   - SOURCE_DETAIL
+  #    - FREQ
+  #    - REPORTING_TYPE
+  #    - NATURE
+  #    - TIME_COVERAGE
+  #    - COMMENT_OBS
+  #    - SOURCE_DETAIL
   #  dsd: [LOCAL DSD FILE STORE]
   #  import_codes: true
 
