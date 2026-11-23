@@ -85,7 +85,7 @@ inputs:
   #  import_observation_attributes: false
   #  import_codes: true
   #  indicator_id_map:
-  #   [SDG/NATIONAL INDICATOR CODE]: [ABAS CODE]
+  #   [SDG/NATIONAL SERIES CODE]: [ABAS INDICATOR CODE]
 
 #  the indicator configuration files for each indicator
   - class: InputYamlMeta
