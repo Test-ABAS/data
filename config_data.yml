@@ -63,7 +63,7 @@ inputs:
   #    - TIME_COVERAGE
   #    - COMMENT_OBS
   #    - SOURCE_DETAIL
-  #  dsd: [LOCAL DSD FILE STORE]
+  #  dsd: 'LocalRegistry.xml'
   #  import_codes: true
 
 
